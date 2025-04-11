@@ -1,5 +1,5 @@
 // API base URL - update this to match your backend URL
-const API_URL = "http://localhost:5000/notes";
+const API_URL = "https://tugas6-be-285761334624.us-central1.run.app/notes";
 
 // Show message function for all pages
 function showMessage(text, type = "info") {
